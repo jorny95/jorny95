@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @jorny95
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning html,css
+- 🌱 I’m currently learning html,css, javascript, node.js
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 jorny95/jorny95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
