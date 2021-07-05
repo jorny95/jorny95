@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/80495707/124414865-7d2b0d00-dd8e-11eb-90e9-5d4d74b98d23.png">
+  <img src="https://user-images.githubusercontent.com/80495707/124433279-88d9fc00-ddad-11eb-844e-225388a2551c.png">
 <h1 align="center">⚙Tech Stack⚙</h1>
 
 <div align="center">
